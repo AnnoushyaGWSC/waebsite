@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-family: "Baskerville Old Face";
+    color: rgb(187, 142, 27);
+}
+
+p, button {
+    font-family: "Open Sans";
+}
